@@ -1,2 +1,5 @@
-python-telegram-bot
+pyrogram
+tgcrypto
+google-genai
+pillow
 flask
